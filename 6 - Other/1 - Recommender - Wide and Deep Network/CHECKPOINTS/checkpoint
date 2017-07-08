@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/Mohamad/Projects/PyCharm Projects/TFLearn Examples/6 - Other/1 - Recommender - Wide and Deep Network/CHECKPOINTS/wide+deep.tfl-200"
+all_model_checkpoint_paths: "/Users/Mohamad/Projects/PyCharm Projects/TFLearn Examples/6 - Other/1 - Recommender - Wide and Deep Network/CHECKPOINTS/wide+deep.tfl-100"
+all_model_checkpoint_paths: "/Users/Mohamad/Projects/PyCharm Projects/TFLearn Examples/6 - Other/1 - Recommender - Wide and Deep Network/CHECKPOINTS/wide+deep.tfl-200"
